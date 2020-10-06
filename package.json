@@ -1,0 +1,14 @@
+{
+  "name": "mastermind-server",
+  "description": "A playground for exploring websocket with react.js in a fun, classic game",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Larissa Morrell",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "node": "^14.4.0",
+    "ws": "^7.3.0"
+  }
+}
